@@ -1,0 +1,18 @@
+{
+  "Settings": [
+    {
+      "Server": [
+        {
+          "Enable": true,
+          "ServerID": "1015980909595480104"
+        }
+      ],
+      "Channel": [
+        {
+          "Enable": true,
+          "ChannelID": "1083751804661145620"
+        }
+      ]
+    }
+  ]
+}
